@@ -33,4 +33,4 @@
 * native-country: 一个类别变量表示原始的国家，允许的值有 {United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands}
 #### 目标变量
 
-*income: 一个类别变量，表示收入属于那个类别，允许的值有 {<=50K, >50K}
+* income: 一个类别变量，表示收入属于那个类别，允许的值有 {<=50K, >50K}
